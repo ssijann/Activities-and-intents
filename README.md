@@ -17,18 +17,18 @@
 <img src="activities and intent task 3.png" width="200">
 </br>
 
-<b> gif part 3</b>
+<b> gif task 3</b>
 <br/>
 <img src="Activities and intents part 3.gif" width="200">
 </br>
 
-<b>part 4 gif</b>
+<b>task 4 gif</b>
 <br/>
 <img src="Activities and intents part4.gif" width="200">
 </br>
 
 
-<b>part 4 gif</b>
+<b>task4 gif</b>
 <br/>
 <img src="Activities and intents part4.gif" width="200">
 </br>
