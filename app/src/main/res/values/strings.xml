@@ -1,9 +1,21 @@
-<resources>
+<?xml version="1.0"?>
+
+    <resources>
+
     <string name="app_name">Two Activities</string>
-    <string name="button_main">SEND</string>
-    <string name="button_second">Reply</string>
-    <string name="editText_second">Enter Your Reply Here</string>
-    <string name="text_header_reply">Reply Received</string>
-    <string name="text_header">Message Received</string>
-    <string name="editText_main">Enter Your Message Here</string>
+
+    <string name="text_one">Text One</string>
+
+    <string name="text_two">Text Two</string>
+
+    <string name="text_three">Text Three</string>
+
+    <string name="display_one">This is an example text</string>
+
+    <string name="display_two">This is another example text</string>
+
+    <string name="display_three">This is one more sample text</string>
+
+    <string name="activity2_name">This is another text</string>
+
 </resources>
