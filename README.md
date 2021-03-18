@@ -22,10 +22,7 @@
 <img src="Activities and intents part 3.gif" width="200">
 </br>
 
-<b>task 4 gif</b>
-<br/>
-<img src="Activities and intents part4.gif" width="200">
-</br>
+
 
 
 <b>task4 gif</b>
