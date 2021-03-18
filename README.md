@@ -32,7 +32,7 @@
 <br/>
 <img src="Activities and intents part4.gif" width="200">
 </br>
-<b>part 4 </b>
+<b>homework </b>
 <br/>
 <img src="homework activity and intent.jpg" width="200">
 </br>
